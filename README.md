@@ -1,3 +1,10 @@
+WALKTHROUGH VIDEO CAN BE FOUND HERE:
+https://drive.google.com/file/d/1J5CtIV0CaRt0hs_WMc8pm3xNql3smzXt/view
+
+SCREENSHOT:
+![ECOMMERCE](https://user-images.githubusercontent.com/110129027/211964737-14e78a5d-597f-4942-bd64-7678f3e11e91.png)
+
+
 
   # Ecommerce Backend
 
